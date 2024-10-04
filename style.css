@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* Para que o fundo cubra toda a altura da janela */
+    background-image: url(imagens/fundo-site.png); /* Substitua 'sua-imagem.jpg' pelo caminho da sua imagem */
+    background-size: cover; /* Faz com que a imagem cubra toda a área */
+    background-position: center; /* Centraliza a imagem */
+    /* Cor do texto, caso a imagem seja escura */
+}
+main {
+    background-color: aliceblue;
+    
+}
